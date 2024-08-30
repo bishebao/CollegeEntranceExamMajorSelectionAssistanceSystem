@@ -1,0 +1,2 @@
+# CollegeEntranceExamMajorSelectionAssistanceSystem
+ 基于SSM的高考志愿选择辅助系统
